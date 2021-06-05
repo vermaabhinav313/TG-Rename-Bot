@@ -8,8 +8,8 @@ This is a Telegram Rename Bot!
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     UPGRADE_TEXT = "<b>Yes Yes Wait..... </b>  /help for Details"
-    DOWNLOAD_START = "trying to download"
-    UPLOAD_START = "trying to upload"
+    DOWNLOAD_START = "Processing your task...."
+    UPLOAD_START = "Uploading......"
     RCHD_TG_API_LIMIT = "Downloaded in {} seconds.\nDetected File Size: {}\nSorry. But, I cannot upload files greater than 1.5GB due to Telegram API limitations."
     AFTER_SUCCESSFUL_UPLOAD_MSG = "**Thank you for Using Me🤓.**"
     AFTER_SUCCESSFUL_UPLOAD_MSG_WITH_TS = "Downloaded in {} seconds.\nUploaded in {} seconds."
@@ -22,12 +22,12 @@ This is a Telegram Rename Bot!
     CUSTOM_CAPTION_UL_FILE = " "
     NO_CUSTOM_THUMB_NAIL_FOUND = "No Custom ThumbNail found."
     USER_ADDED_TO_DB = "User <a href='tg://user?id={}'>{}</a> added to {} till {}."
-    HELP_USER = """Hai am Rename bot..
+    HELP_USER = """Hello Bruh am Rename bot..
     
 1. Send me any Telegram File.
 2. Reply to that message to /rename new name.extension.
    
-<b>👉 Made By Warlord Network :</b> 👉 <a href="t.me/WarlordNetwork">Diploy</a>
+<b>👉 Made By Warlord Network :</b> 👉 <a href="t.me/WarlordNetwork">Join</a>
 
 --------
 
